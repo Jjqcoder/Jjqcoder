@@ -1,11 +1,12 @@
 <h1 align="center">
-    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="70px" height="70px">I'm Jiang Jianqing
+  Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32" height="32"/> I'm Jiang Jianqing
 </h1>
 
-**About me🚶‍♂️**
+### About Me 👨‍💻
+- 🔭 Full-stack enthusiast, Node.js & Vue lover  
+- 📫 Reach me: 1810422805@qq.com  
+- 📝 My sites: [Blog on Juejin](https://juejin.cn/user/4051056254523991/posts) · [Homepage](http://wbeishangw.top/)
 
-- 💻 I'm a Full Stack Developer enthusiast.
-- 🔥 Learning JavaScript and TypeScript.
-- 📲 You can reach me at: 1810422805@qq.com 
+---
 
 Feel free to connect! 🤝
