@@ -5,7 +5,7 @@
 ### About Me 👨‍💻
 - 🔭 Full-stack enthusiast, Node.js & Vue lover  
 - 📫 Reach me: 1810422805@qq.com  
-- 📝 My sites: [Blog on Juejin](https://juejin.cn/user/4051056254523991/posts) · [Homepage](http://wbeishangw.top/)
+- 📝 My sites: [Homepage](https://www.wbeishangw.top/)
 
 ---
 
